@@ -40,22 +40,36 @@
 
 </div>
 
-## 📫 Let's Connect
+## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://x.com/Hammadp508?t=-x0g6y2GdUoKoelqKXpMUA&s=08">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40"/>
+  <!-- Twitter (X) -->
+  <a href="https://x.com/Hammadp508" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50" alt="Twitter" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.linkedin.com/in/hammad-ch-0b242a24b">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/hammad-ch-0b242a24b" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="50" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:hammadp5087@gmail.com">
-    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40"/>
+  <!-- Gmail -->
+  <a href="mailto:hammadp5087@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50" alt="Gmail" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://hammad08.netlify.app">
-    <img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/48/000000/external-portfolio-business-and-finance-itim2101-lineal-color-itim2101.png" alt="Portfolio" width="40"/>
+  <!-- Portfolio -->
+  <a href="https://hammad08.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-portfolio-responsive-web-design-justicon-flat-justicon.png" width="50" alt="Portfolio" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  </a>
+  <!-- GitHub -->
+  <a href="https://github.com/CodeWithHammad6" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="50" alt="GitHub" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </p>
+
+<!-- Animated divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Open+to+collaborations+%F0%9F%91%8B;Let's+build+something+awesome+%F0%9F%9A%80" alt="Typing animation" />
+</p>
+
 
 <div align="center">
   
