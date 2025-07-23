@@ -76,11 +76,19 @@
 </p>
 
 
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=CodeWithHammad6&color=blueviolet&label=PROFILE+VIEWS&style=flat-square)
 
-</div>
 
-## 🎨 Fun Fact
-When I'm not coding, you'll find me 🎮 gaming or 📸 photography!
+## ✨ Beyond Code
+
+<p align="center" style="font-size: 1.1rem;">
+  When I'm not coding, you'll find me<br>
+  <span style="display: inline-block; margin: 15px;">
+    <img src="https://img.icons8.com/fluency/96/000000/controller.png" width="40" alt="Gaming" style="transition: all 0.3s ease; vertical-align: middle;" onmouseover="this.style.transform='rotate(-10deg) scale(1.2)'" onmouseout="this.style.transform='none'"/>
+    <span style="margin: 0 5px; font-weight: 600;">gaming</span>
+  </span>
+  or
+  <span style="display: inline-block; margin: 15px;">
+    <img src="https://img.icons8.com/fluency/96/000000/compact-camera.png" width="40" alt="Photography" style="transition: all 0.3s ease; vertical-align: middle;" onmouseover="this.style.transform='rotate(10deg) scale(1.2)'" onmouseout="this.style.transform='none'"/>
+    <span style="margin: 0 5px; font-weight: 600;">photography</span>
+  </span>
+</p>
