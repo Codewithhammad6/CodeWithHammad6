@@ -63,7 +63,7 @@
   
  <!-- Portfolio - Briefcase icon (Fixed URL) -->
 <a href="https://hammad08.netlify.app" target="_blank" style="margin: 0 10px;">
- <img src="https://img.icons8.com/external-filled-outline-lima-studio/96/000000/external-portfolio-web-design-filled-outline-lima-studio.png" width="40" alt="Portfolio"/>
+<img src="https://img.icons8.com/ios-filled/100/000000/briefcase.png" width="40" alt="Portfolio"/>
 </a>
   
   <!-- GitHub - Modern cat logo -->
