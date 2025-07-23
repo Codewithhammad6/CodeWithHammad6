@@ -40,29 +40,39 @@
 
 </div>
 
+
+
+
 ## 🌍 Let's Connect
 
 <p align="center">
-  <!-- Twitter (X) -->
-  <a href="https://x.com/Hammadp508" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="50" alt="Twitter" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  <!-- Twitter (X) - Modern X icon -->
+  <a href="https://x.com/Hammadp508" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/fluent/96/000000/twitterx.png" width="40" alt="Twitter" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
   </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/hammad-ch-0b242a24b" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin-circled.png" width="50" alt="LinkedIn" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  
+  <!-- LinkedIn - Modern gradient -->
+  <a href="https://www.linkedin.com/in/hammad-ch-0b242a24b" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color-glass/96/000000/linkedin.png" width="40" alt="LinkedIn" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
   </a>
-  <!-- Gmail -->
-  <a href="mailto:hammadp5087@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50" alt="Gmail" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  
+  <!-- Gmail - Modern red -->
+  <a href="mailto:hammadp5087@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="40" alt="Gmail" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
   </a>
-<a href="https://hammad08.netlify.app" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="50" alt="Portfolio" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-</a>
-  <!-- GitHub -->
-  <a href="https://github.com/CodeWithHammad6" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="50" alt="GitHub" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+  
+  <!-- Portfolio - Briefcase icon -->
+  <a href="https://hammad08.netlify.app" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/external-others-inmotus-design/96/000000/external-portfolio-web-seo-others-inmotus-design-2.png" width="40" alt="Portfolio" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
+  </a>
+  
+  <!-- GitHub - Modern cat logo -->
+  <a href="https://github.com/CodeWithHammad6" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.icons8.com/ios-glyphs/96/000000/github.png" width="40" alt="GitHub" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
   </a>
 </p>
+
+
 
 <!-- Animated divider -->
 <p align="center">
