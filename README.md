@@ -1,39 +1,40 @@
 # 💻 MERN Stack Developer | 1+ Year Experience 
 
 **Hey there! I'm Hammad**  
-🚀 Building full-stack magic with **MERN** | 📚 Lifelong learner | 🔥 Open-source contributor  
-📍 From Pakistan | ✨ Crafting pixel-perfect UIs & robust APIs  
+🚀 Transforming ideas into full-stack reality | 📚 JavaScript enthusiast | 🔥 API craftsman  
+📍 From Pakistan | ✨ Passionate about clean code & intuitive UX  
 
-### 🛠️ Core Stack
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
+### 👨💻 About Me
+I've mastered the **MERN stack** through 500+ hours of coding, building production-ready applications with:
+- ✅ **Frontend**: React, Tailwind CSS, Bootstrap
+- ✅ **Backend**: Node.js, Express.js, REST APIs
+- ✅ **Database**: MongoDB (Mongoose ODM)
+- ✅ **Tools**: Git, Postman, VS Code
 
-### 🔥 My Superpowers
-✅ **Frontend Alchemist**: HTML5, CSS3, JavaScript (ES6+), React.js  
-✅ **Backend Wizard**: Node.js, Express.js, RESTful APIs  
-✅ **Database Whisperer**: MongoDB, Mongoose  
-✅ **UI/UX Ninja**: Tailwind CSS, Bootstrap, Responsive Design  
+### 🛠️ Tech Stack
+<p align="left">
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,bootstrap,git,vscode" alt="tech stack" />
+</p>
 
-### 🏗️ Projects Showcase
-| Project | Live Demo | Code |
-|---------|-----------|------|
-| [E-Commerce Platform](link) | [Live](link) | [GitHub](link) |
-| [Task Manager API](link) | [Postman](link) | [GitHub](link) |
-| [Portfolio Template](link) | [Live](link) | [GitHub](link) |
+### 🌟 Featured Projects
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| **E-Commerce Platform** | Full-featured online store | MERN | [Live](link)・[Code](link) |
+| **Task Manager API** | JWT-authenticated task system | Node+Express | [Docs](link) |
+| **Portfolio Template** | Responsive developer portfolio | React+Tailwind | [Demo](link) |
 
-### 📈 GitHub Analytics
-[![MERN Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithHammad6&theme=dark)](https://github.com/CodeWithHammad6)  
-[![Top Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,bootstrap)](https://skillicons.dev)
+### 📊 GitHub Analytics
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=CodeWithHammad6&theme=dark)](https://git.io/streak-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithHammad6&layout=compact&theme=vision-friendly-dark)](https://github.com/CodeWithHammad6)
 
-### 🌱 Currently Exploring
-• Next.js • TypeScript • GraphQL • AWS  
+</div>
 
-### 📬 Let's Collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](your-link)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:your@email.com)
+### 📫 Let's Connect
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Hammadp508?t=-x0g6y2GdUoKoelqKXpMUA&s=08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-ch-0b242a24b)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hammadp5087@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)
 
-![MERN Journey](https://komarev.com/ghpvc/?username=CodeWithHammad6&label=PROFILE+VIEWS&color=blueviolet)
+![Visitor Count](https://komarev.com/ghpvc/?username=CodeWithHammad6&color=blueviolet&label=PROFILE+VIEWS)
