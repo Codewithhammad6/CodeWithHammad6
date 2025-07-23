@@ -55,10 +55,9 @@
   <a href="mailto:hammadp5087@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="50" alt="Gmail" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <!-- Portfolio -->
-  <a href="https://hammad08.netlify.app" target="_blank">
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/48/000000/external-portfolio-responsive-web-design-justicon-flat-justicon.png" width="50" alt="Portfolio" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
-  </a>
+<a href="https://hammad08.netlify.app" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/portfolio.png" width="50" alt="Portfolio" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
   <!-- GitHub -->
   <a href="https://github.com/CodeWithHammad6" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/github.png" width="50" alt="GitHub" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
