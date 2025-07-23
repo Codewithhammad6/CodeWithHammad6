@@ -1,36 +1,39 @@
-# 👨💻 Hello World! I'm Hammad 
+# 💻 MERN Stack Developer | 1+ Year Experience 
 
-**🚀 Full-Stack Developer | Open-Source Enthusiast | Coding Mentor**  
-📍 Based in Pakistan | 🔥 Turning coffee into code since 2020  
+**Hey there! I'm Hammad**  
+🚀 Building full-stack magic with **MERN** | 📚 Lifelong learner | 🔥 Open-source contributor  
+📍 From Pakistan | ✨ Crafting pixel-perfect UIs & robust APIs  
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### 🛠️ Core Stack
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css)
 
-### 📈 GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithHammad6&show_icons=true&theme=radical&hide_title=true)](https://github.com/CodeWithHammad6)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithHammad6&layout=compact&theme=radical)](https://github.com/CodeWithHammad6)
+### 🔥 My Superpowers
+✅ **Frontend Alchemist**: HTML5, CSS3, JavaScript (ES6+), React.js  
+✅ **Backend Wizard**: Node.js, Express.js, RESTful APIs  
+✅ **Database Whisperer**: MongoDB, Mongoose  
+✅ **UI/UX Ninja**: Tailwind CSS, Bootstrap, Responsive Design  
 
-### 🏆 Achievements
-- 🎓 **5+ years** of coding experience
-- 🌱 Mentored **50+ students** in web development
-- 💻 Contributed to **10+ open-source projects**
-- 🚀 Built **20+ production-ready applications**
+### 🏗️ Projects Showcase
+| Project | Live Demo | Code |
+|---------|-----------|------|
+| [E-Commerce Platform](link) | [Live](link) | [GitHub](link) |
+| [Task Manager API](link) | [Postman](link) | [GitHub](link) |
+| [Portfolio Template](link) | [Live](link) | [GitHub](link) |
 
-### 🔥 Featured Projects
-| Project | Description | Tech Used |
-|---------|-------------|-----------|
-| [E-Commerce Platform](link) | Full-featured online store | React, Node.js, MongoDB |
-| [Task Management App](link) | Productivity booster | Python, Django |
-| [Portfolio Template](link) | Developer portfolio starter | HTML, CSS, JS |
+### 📈 GitHub Analytics
+[![MERN Streak](https://github-readme-streak-stats.herokuapp.com/?user=CodeWithHammad6&theme=dark)](https://github.com/CodeWithHammad6)  
+[![Top Skills](https://skillicons.dev/icons?i=js,react,nodejs,mongodb,express,tailwind,bootstrap)](https://skillicons.dev)
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)](your-twitter)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube)](your-youtube)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=google-chrome)](your-portfolio)
+### 🌱 Currently Exploring
+• Next.js • TypeScript • GraphQL • AWS  
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=CodeWithHammad6.CodeWithHammad6)
+### 📬 Let's Collaborate!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin)](your-link)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter)](your-link)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:your@email.com)
+
+![MERN Journey](https://komarev.com/ghpvc/?username=CodeWithHammad6&label=PROFILE+VIEWS&color=blueviolet)
