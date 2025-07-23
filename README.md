@@ -61,10 +61,10 @@
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="40" alt="Gmail" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
   </a>
   
-  <!-- Portfolio - Briefcase icon -->
-  <a href="https://hammad08.netlify.app" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.icons8.com/external-others-inmotus-design/96/000000/external-portfolio-web-seo-others-inmotus-design-2.png" width="40" alt="Portfolio" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
-  </a>
+ <!-- Portfolio - Briefcase icon (Fixed URL) -->
+<a href="https://hammad08.netlify.app" target="_blank" style="margin: 0 10px;">
+  <img src="https://img.icons8.com/external-others-inmotus-design/96/000000/external-portfolio-web-seo-others-inmotus-design-2.png" width="40" alt="Portfolio" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
+</a>
   
   <!-- GitHub - Modern cat logo -->
   <a href="https://github.com/CodeWithHammad6" target="_blank" style="margin: 0 10px;">
