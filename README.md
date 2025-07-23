@@ -63,7 +63,7 @@
   
  <!-- Portfolio - Briefcase icon (Fixed URL) -->
 <a href="https://hammad08.netlify.app" target="_blank" style="margin: 0 10px;">
-  <img src="https://img.icons8.com/external-others-inmotus-design/96/000000/external-portfolio-web-seo-others-inmotus-design-2.png" width="40" alt="Portfolio" style="transition: all 0.3s; filter: grayscale(30%) brightness(1.1);" onmouseover="this.style.transform='scale(1.2)'; this.style.filter='none'" onmouseout="this.style.transform='scale(1)'; this.style.filter='grayscale(30%) brightness(1.1)'"/>
+ <img src="https://img.icons8.com/external-filled-outline-lima-studio/96/000000/external-portfolio-web-design-filled-outline-lima-studio.png" width="40" alt="Portfolio"/>
 </a>
   
   <!-- GitHub - Modern cat logo -->
