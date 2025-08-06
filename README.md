@@ -32,8 +32,8 @@
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CodeWithHammad6&theme=dark&date_format=j%20M%5B%20Y%5D&random=123)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodeWithHammad6&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWithHammad6&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10)](https://github.com/CodeWithHammad6)
 
