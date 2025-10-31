@@ -22,11 +22,11 @@
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech | Links |
+| Project | Description | Tech |
 |---------|-------------|------|-------|
-| **🛍️ E-Commerce Platform** | Full-featured online store with payment integration | MERN Stack | [Live Demo](https://hammad088.netlify.app)・[Code](link) |
-| **📝 Task Manager API** | JWT-authenticated task system with user roles | Node+Express | [API Docs](https://hammad088.netlify.app) |
-| **🎨 Portfolio Template** | Responsive developer portfolio with dark mode | React+Tailwind | [Demo](https://hammad08.netlify.app) |
+| **🛍️ E-Commerce Platform** | Full-featured online store with payment integration | MERN Stack |
+| **📝 Task Manager API** | JWT-authenticated task system with user roles | Node+Express |
+| **🎨 Portfolio Template** | Responsive developer portfolio with dark mode | React+Tailwind |
 
 ## 📊 GitHub Analytics
 
