@@ -22,7 +22,7 @@
 
 ## 🏆 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Tech      |
 |---------|-------------|------|-------|
 | **🛍️ E-Commerce Platform** | Full-featured online store with payment integration | MERN Stack |
 | **📝 Task Manager API** | JWT-authenticated task system with user roles | Node+Express |
