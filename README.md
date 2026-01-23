@@ -24,9 +24,10 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **🏢 Hospital Management System** | Manage full hosptial Reception to Doctor and Labs Pharmacy Everything | React+Tailwind+Express |
+| **🤔 IntelliQuiz App** | Online Quiz App Teacher generate and give code to student and get all record | ReactNative+Express |
 | **🛍️ E-Commerce Platform** | Full-featured online store with payment integration | MERN Stack |
 | **📝 Task Manager API** | JWT-authenticated task system with user roles | Node+Express |
-| **🎨 Portfolio Template** | Responsive developer portfolio with dark mode | React+Tailwind |
 
 ## 📊 GitHub Analytics
 
